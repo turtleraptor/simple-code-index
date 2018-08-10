@@ -1,14 +1,14 @@
 {
   "name": "simple-code-index",
   "main": "./lib/simple-code-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a panel on the right side to view and go to the comments indexes of the code.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "simple-code-index:toggle"
   },
-  "repository": "https://github.com/atom/simple-code-index",
+  "repository": "https://github.com/turtleraptor/simple-code-index",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
