@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle simple-code-index",
+        "command": "simple-code-index:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "simple-code-index",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "simple-code-index:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
