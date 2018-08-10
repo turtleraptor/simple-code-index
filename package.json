@@ -1,8 +1,8 @@
 {
   "name": "simple-code-index",
   "main": "./lib/simple-code-index",
-  "version": "1.2.0",
-  "description": "Create a panel on the right side to view and go to the comments indexes of the code.",
+  "version": "1.2.1",
+  "description": "Create a panel on the right side to view and go to the comments indexes of the code. Example of comment: // COMMENTS IN UPPER CASE AS INDEX",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "simple-code-index:toggle"
